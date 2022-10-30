@@ -1,0 +1,17 @@
+<svg width="117" height="170" viewBox="0 0 117 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.728516" y="0.568359" width="116" height="168.53" rx="8.83809" fill="#190935"/>
+<ellipse cx="80.6214" cy="68.4182" rx="18.6038" ry="17.5096" fill="#4A2587"/>
+<ellipse cx="75.1481" cy="49.8134" rx="17.5094" ry="18.604" fill="#975BE3"/>
+<ellipse cx="58.7307" cy="47.6248" rx="18.6038" ry="18.604" fill="#692ADC"/>
+<ellipse cx="41.221" cy="53.0976" rx="18.6038" ry="17.5096" fill="#975BE3"/>
+<ellipse cx="58.7307" cy="81.5501" rx="18.6038" ry="17.5096" fill="url(#paint0_linear_212_4962)"/>
+<rect x="22.6172" y="125.324" width="52.3407" height="3.87713" rx="1.93856" fill="#692ADC"/>
+<rect x="22.6172" y="135.017" width="29.0782" height="3.87713" rx="1.93856" fill="#692ADC"/>
+<rect x="22.6172" y="150.525" width="67.8491" height="3.87713" rx="1.93856" fill="#692ADC"/>
+<defs>
+<linearGradient id="paint0_linear_212_4962" x1="40.127" y1="81.5501" x2="81.9566" y2="81.5501" gradientUnits="userSpaceOnUse">
+<stop stop-color="#80FFDB"/>
+<stop offset="1" stop-color="#692ADC"/>
+</linearGradient>
+</defs>
+</svg>

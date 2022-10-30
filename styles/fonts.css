@@ -1,0 +1,118 @@
+/* fonts */
+
+/* Use -Header- to apply magistral fonts */
+
+/* magistral Bold*/
+@font-face {
+    font-family: "magistral";
+    src: url("/fonts/Magistral/Magistral-Bold.ttf") format('truetype');
+    src: url("/fonts/Magistral/Magistral-Bold.ttf") format('truetype');
+    font-weight: bold;
+    font-style: bold;
+  }
+  
+  /* magistral bold-itali*/
+  @font-face {
+    font-family: "magistral";
+    src: url("/fonts/Magistral/Magistral-BoldItalic.ttf");
+    src: url("/fonts/Magistral/Magistral-BoldItalic.ttf");
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  
+  /* magistral semi-bold*/
+  @font-face {
+    font-family: "magistral";
+    src: url("/fonts/Magistral/Magistral-Book.ttf") format('truetype');
+    src: url("/fonts/Magistral/Magistral-Book.ttf") format('truetype');
+    font-weight: regular;
+    font-style: normal;
+  }
+  
+  
+  /* magistral semi-bold italic*/
+  @font-face {
+    font-family: "magistral";
+    src: url("/fonts/Magistral/Magistral-BookItalic.ttf") format('truetype');
+    src: url("/fonts/Magistral/Magistral-BookItalic.ttf") format('truetype');
+    font-weight: semibold;
+    font-style: italic;
+  }
+  
+  
+  /* magistral extra-bold*/
+  @font-face {
+    font-family: "magistral";
+    src: url("/fonts/Magistral/Magistral-ExtraBold.ttf") format('truetype');
+    src: url("/fonts/Magistral/Magistral-ExtraBold.ttf") format('truetype');
+    font-weight: extrabold;
+    font-style: normal;
+  }
+  
+  
+  /* magistral medium*/
+  @font-face {
+    font-family: "magistral";
+    src: url("/fonts/Magistral/Magistral-Medium.ttf") format('truetype');
+    src: url("/fonts/Magistral/Magistral-Medium.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* magistral light*/
+  @font-face {
+    font-family: "magistral";
+    src: url("/fonts/Magistral/Magistral-Light.ttf") format('truetype');
+    src: url("/fonts/Magistral/Magistral-Light.ttf") format('truetype');
+    font-weight: light;
+    font-style: normal;
+  }
+  
+  
+  
+  
+  /* Articulat fonts */
+  
+  /* use Body to style articulat fonts */
+  
+  /* articulat Bold */
+  @font-face {
+    font-family: "articulat";
+    src: url("/fonts/articulat/Articulat_0TF/ArticulatCF-Bold.otf");
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  /* articulat semibold */
+  @font-face {
+    font-family: "articulat";
+    src: url("/fonts/articulat/Articulat_0TF/ArticulatCF-DemiBold.otf");
+    font-weight: semibold;
+    font-style: normal;
+  }
+  
+  /* articulat regular */
+  @font-face {
+    font-family: "articulat";
+    src: url("/fonts/articulat/Articulat_0TF/ArticulatCF-Regular.otf");
+    font-weight: regular;
+    font-style: normal;
+  }
+  
+  /* articulat light */
+  @font-face {
+    font-family: "articulat";
+    src: url("/fonts/articulat/Articulat_0TF/ArticulatCF-Light.otf");
+    font-weight: light;
+    font-style: normal;
+  }
+  
+  /* articulat light */
+  @font-face {
+    font-family: "articulat";
+    src: url("/fonts/articulat/Articulat_0TF/ArticulatCF-Normal.otf");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
